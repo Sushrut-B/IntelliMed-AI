@@ -19,6 +19,9 @@ This project aims to simplify complex medical reports using AI, providing unders
 
 ---
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_f80uref80uref80u" src="https://github.com/user-attachments/assets/b9a6834f-be0f-435b-ae4c-7660a6821fdc" />
+
+---
 ## 🛠 Tech Stack Overview
 
 ### 📱 Frontend (Mobile App)
